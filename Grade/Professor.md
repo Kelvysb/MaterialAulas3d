@@ -1,8 +1,9 @@
 # Instrutor
 
+
+<img src="https://github.com/Kelvysb/MaterialAulas3d/blob/master/Grade/Me.jpeg?raw=true" height="120px" style="border-radius: 50%;"/>
+
 ## Kelvys B. Pantaleão
-
-
 
 Desenvolvendo desde 1998, profissionalmente desde 2009.
 Apaixonado por desenvolvimento de jogos digitais e arte digital
@@ -30,3 +31,5 @@ e entusiasta de tecnologias Microsoft, ciência de dados, Python e incentivador 
 * [Behance](https://www.behance.net/KelvysB)
 * [Itch.io](https://kelvysb.itch.io/)
 * [Thingverse](https://www.thingiverse.com/kelvys/designs)
+
+<img src="https://github.com/Kelvysb/MaterialAulas3d/blob/master/Grade/PixelMe.jpeg?raw=true" height="80px" style="border-radius: 50%;"/>
