@@ -97,12 +97,12 @@
 
 # Ciclo 2 - Desenvolvimento de jogos e Projeto final.
 
-## Modulo 6 - Unity
+## Modulo 6 - Engine de Jogo
 
 ### Aulas:
 
-1. Interface do programa Unity.
-2. Interface do programa Visual Studio.
+1. Interface do Engine / Conceitos de Engine de jogo.
+2. Interface do programa Visual Studio / Visual Studio Code.
 3. Introdução a programação.
 4. Variáveis e seus tipos. 
 5. Controles de fluxo.
@@ -115,62 +115,62 @@
 13. Qualidade de Software - Introdução.
 14. Input System I.
 15. Input System II.
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
-25. 
-26. 
-27. 
-28. 
-29. 
-30. 
-31. 
-32. 
-33. 
-34. 
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
-43. 
-44. 
-45. 
+16. Controle e câmera de Personagem em Primeira pessoa I.
+17. Controle e câmera de Personagem em Primeira pessoa II.
+18. Controle e câmera de Personagem em Side Scrolling I.
+19. Controle e câmera de Personagem em Side Scrolling II.
+20. Controle e câmera de Personagem em Terceira Pessoa I.
+21. Controle e câmera de Personagem em Terceira Pessoa II.
+22. Tipos de corpos e física básica.
+23. Colisores.
+24. Pratica de interação com ambiente de jogo I.
+25. Pratica de interação com ambiente de jogo II.
+26. Animação I - Importação e aplicação.
+27. Animação II - Montagem da arvore de animação.
+28. Animação III - Transições e triggers.
+29. Animação IV - Interação de animação com inputs em código.
+30. Texturização e Shaders I.
+31. Texturização e Shaders II.
+32. Shaders físicos.
+33. Pratica de montagem de cenário.
+34. Sistema de partículas I.
+35. Sistema de partículas II.
+36. Sistema de partículas III.
+37. Prática de Sistema de partículas.
+38. Transições de cenários e LOD I.
+39. Transições de cenários e LOD II.
+40. Iluminação e ambientação I.
+41. Iluminação e ambientação II.
+42. Pós-processamento.
+43. HUD I
+44. HUD II
+45. HUD III
 
 ## Modulo 7 - Projeto Final
 
 ### Aulas:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-20. 
-21. 
-22. 
-23. 
-24. 
+1. Acompanhamento - Fase I - Definição de Projetos e Equipes.
+2. Acompanhamento - Fase I - Definição de Projetos e Equipes.
+3. Acompanhamento - Fase II - Montagem da documentação.
+4. Acompanhamento - Fase II - Montagem da documentação.
+5. Acompanhamento - Fase III - Blocagem do primeiro estagio.
+6. Acompanhamento - Fase III - Blocagem do primeiro estagio.
+7. Acompanhamento - Fase IV - Detalhamento básico do primeiro estagio.
+8. Acompanhamento - Fase IV - Detalhamento básico do primeiro estagio.
+9. Acompanhamento - Fase V - Criação de mecânicas.
+10. Acompanhamento - Fase V - Criação de mecânicas.
+11. Acompanhamento - Fase V - Criação de mecânicas.
+12. Acompanhamento - Fase V - Criação de mecânicas.
+13. Acompanhamento - Fase VI - Criação de personagem principal.
+14. Acompanhamento - Fase VI - Criação de personagem principal.
+15. Acompanhamento - Fase VII - Criação de inimigo(s).
+16. Acompanhamento - Fase VII - Criação de inimigo(s).
+17. Acompanhamento - Fase VIII - Implementação de narrativa e balanceamento.
+18. Acompanhamento - Fase VIII - Implementação de narrativa e balanceamento.
+19. Acompanhamento - Fase VIII - Implementação de narrativa e balanceamento.
+20. Acompanhamento - Fase VIII - Implementação de narrativa e balanceamento.
+21. Acompanhamento - Fase IX - Finalização.
+22. Acompanhamento - Fase IX - Finalização.
+23. Apresentação do projeto final e encerramento.
+24. Apresentação do projeto final e encerramento.
