@@ -2,7 +2,7 @@
 
 ### O que são variáveis?  
 
-<img src="./boxes.jpg">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/boxes.jpg">
 
 Vamos imaginar uma variável como uma caixa onde guardamos coisas dentro dela, e do lado de fora da caixa escrevemos o tipo de coisa que esta dentro desta caixa.
 E quando escrevemos na caixa que dentro dela estão pratos (ou um prato) não poderemos colocar copos dentro dela.
@@ -44,3 +44,17 @@ idade = 37;
 ```
 
 Neste exemplo a variável foi criada vazia e na linha seguinte voi atribuído o valor 37;
+
+Depois de definido o tipo de uma variável tentar colocar um valor de outro tipo dentro dela pode resultar em erro ex.:
+
+```C#
+var idade = 37;
+idade = "Trinta e Sete";
+```
+
+Neste caso essa operação daria erro pois o texto "Trinta e Sete" não é um numero inteiro.
+
+importante:
+
+Notamos também que os valores do tipo **string** (texto) devem sempre ser colocadas entre " no código como no exemplo "Trinta e Sete".
+

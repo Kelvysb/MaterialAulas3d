@@ -7,7 +7,7 @@
 O que que é um framework?
 Podemos imaginar um framework como um conjunto de materiais e ferramentas para construirmos nossos programas, como se fosse uma bancada de uma oficina, com tudo que você precisa pra construir concertar coisas desde os materiais ate o ferramental:
 
-<img src="./workbench.jpg">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/workbench.jpg">
 
 Existem muitos frameworks disponíveis cada um com suas vantagens e desvantagens, e como as ferramentas em uma oficina devemos utilizar a ferramenta certa para o problema especifico, não devemos utilizar um martelo para apertar um parafuso, e nem vice-versa.
 
@@ -28,7 +28,7 @@ A escolha depende de vários fatores, como a linguagem, a complexidade do progra
 
 ## Bibliotecas
 
-<img src="./library.jpg">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/library.jpg">
 
  Algo que temos que ter em mente também e o conceito de bibliotecas, em programação uma biblioteca e um conjunto de códigos uteis para um determinado fim, por exemplo podemos ter uma biblioteca de funções matemáticas, assim quando precisarmos calcular o fatorial de alguma coisa não precisaremos escrever todo o código para isso, ja reutilizaremos o que ja existe na biblioteca.
 
@@ -36,7 +36,7 @@ A escolha depende de vários fatores, como a linguagem, a complexidade do progra
 
 ## Algorítimos  
 
-<img src="./cake.jpeg">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/cake.jpeg">
 
 Algoritmos são como receitas de bolo, você tem os ingredientes e os passos que que que seguir para conseguir um bolo no final do processo:
 
@@ -70,7 +70,7 @@ Na nossa receita de bolo a entrada (input) são os ingredientes, e a saída e o 
  
 ## Funções
 
-<img src="./mixer.jpg">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/mixer.jpg">
 
 Funções são pequenos trechos de código que realizam alguma operação, estas funções podem conter ou não entradas e podem conter ou não saídas. esses trechos de código podem ser reutilizados, sendo assim muito uteis para evitar repetição de código que é o 8º pecado capital.
 
@@ -81,8 +81,8 @@ No nosso exemplo da receita de bolo poderíamos considerar uma função chamada 
 
 Para prepararmos a bancada da nossa oficina precisaremos instalar o Framework e a IDE, nos utilizaremos o Framework .net versão 7, e como IDE utilizaremos o 'Visual Studio Code', vou apresentar dois métodos para instalar nossas ferramentas.
 
-<img src="./dot_net.png" height="100">
-<img src="./vscode.png" height="100">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/dot_net.png" height="100">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/vscode.png" height="100">
 
 ### Metodo 1 - Instaladores
 
@@ -101,7 +101,7 @@ Easy Game.
 
 Para isso abriremos um programa que todo computador com window possui, chamado windows PowerShell:
 
-<img src="./powershell.png">
+<img src="https://raw.githubusercontent.com/Kelvysb/MaterialAulas3d/master/modulo2-aula3-4/powershell.png">
 
 neste programa podemos executar comandos para realizar qualquer coisa no windows, mas isso e uma historia para outra aula, o que precisamos saber e aqui e quais comandos executar:
 
